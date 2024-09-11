@@ -77,3 +77,9 @@ COmo um lego, você vai utilizaar algoritmo para resolver problemas.
         console.log(count)       // escreve na tela do usuário o valor
         count++                  // após o loop adiciona +1 ao contador e o loop continuar até que a variavel se torne falsa, maior que 10
     }
+
+        Tomar cuidado com o while ser verdadeiro e o loop não parar, por isso é importante colocar return.
+
+## Condicionais
+
+    - switch
