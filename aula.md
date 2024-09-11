@@ -69,3 +69,11 @@ COmo um lego, você vai utilizaar algoritmo para resolver problemas.
         Fica fora do objeto
 
 
+
+## Estrtura de repetição
+    - While (enquanto)
+        let count = 1            // aqui a variavel informo que ela começa com 1
+        while(count <=10){       // aqui o loop acontece até que o contador chegue a 10, 
+        console.log(count)       // escreve na tela do usuário o valor
+        count++                  // após o loop adiciona +1 ao contador e o loop continuar até que a variavel se torne falsa, maior que 10
+    }

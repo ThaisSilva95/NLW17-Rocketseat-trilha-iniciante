@@ -1,8 +1,9 @@
-// arrays, objetos
-let meta = {
-    value: 'Ler um livro por mês',
-    checked: false
+function start () {
+    let count =1
+    while(count <=10){
+        console.log(count)
+        count++
+    }
 }
 
-console.log(meta.value)
-
+start()
